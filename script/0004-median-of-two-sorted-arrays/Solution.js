@@ -1,3 +1,11 @@
+// Return the median of the two sorted arrays
+
+/**
+ * @param {number[]} nums1
+ * @param {number[]} nums2
+ * @return {number}
+ */
+
 var findMedianSortedArrays = function (nums1, nums2) {
   let size = nums1.length + nums2.length;
 
