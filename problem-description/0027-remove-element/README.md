@@ -4,7 +4,7 @@
 
 <br>
 
-Given an integer array <code>nums</code> and an integer <code>val</code>, remove all occurrences of <code>val</code> in <code>nums</code> __in-place__. The order of the elements may be changed. Then return the number of elements in <code>nums</code> which are not equal to <code>val</code>.
+Given an integer array <code>nums</code> and an integer <code>val</code>, remove all occurrences of <code>val</code> in <code>nums</code> __in-place__. The order of the elements may be changed. Then return *the number of elements in* <code>nums</code> *which are not equal to* <code>val</code>.
 
 Consider the number of elements in <code>nums</code> which are not equal to <code>val</code> be <code>k</code>, to get accepted, you need to do the following things:
 
