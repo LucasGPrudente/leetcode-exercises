@@ -1,4 +1,4 @@
-## [75. Sort Colors](https://leetcode.com/problems/sort-colors)
+## [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 
 <code>Medium</code> <code>Array</code> <code>Two Pointers</code> <code>Sorting</code>
 
