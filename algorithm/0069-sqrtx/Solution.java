@@ -2,16 +2,16 @@ class Solution {
 
     // Return the square root of x rounded down to the nearest integer
     public int mySqrt(int x) {
-        long sqrt = x;
+        long num = x;
 
-        while (sqrt * sqrt > x) {
-            sqrt /= 2;
+        while (num * num > x) {
+            num /= 2;
         }
 
-        while (sqrt * sqrt <= x) {
-            sqrt++;
+        while (num * num <= x) {
+            num++;
         }
 
-        return (int) sqrt - 1;
+        return (int) num - 1;
     }
 }

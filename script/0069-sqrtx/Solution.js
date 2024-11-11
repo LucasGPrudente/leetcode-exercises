@@ -6,15 +6,15 @@
  */
 
 var mySqrt = function (x) {
-  let sqrt = 0;
+  let num = 0;
 
-  while (sqrt * sqrt > x) {
-      sqrt /= 2;
+  while (num * num > x) {
+      num /= 2;
   }
 
-  while (sqrt * sqrt <= x) {
-      sqrt++;
+  while (num * num <= x) {
+      num++;
   }
 
-  return sqrt - 1;
+  return num - 1;
 };
