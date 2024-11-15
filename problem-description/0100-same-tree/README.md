@@ -12,23 +12,17 @@ Two binary trees are considered the same if they are structurally identical, and
 
 #### Example 1:
 
-![image](https://github.com/user-attachments/assets/0b751f88-1289-423c-8ffc-e0f877a451a8)
-
 > __Input:__ p = [1,2,3], q = [1,2,3]
 >
 > __Output:__ true
 
 #### Example 2:
 
-![image](https://github.com/user-attachments/assets/3cf7d407-257f-4a53-9aa9-c758667d4cc1)
-
 > __Input:__ p = [1,2], q = [1,null,2]
 >
 > __Output:__ false
 
 #### Example 3:
-
-![image](https://github.com/user-attachments/assets/77977a2f-83b9-40b8-a957-8082c14ae9d2)
 
 > __Input:__ p = [1,2,1], q = [1,1,2]
 >
