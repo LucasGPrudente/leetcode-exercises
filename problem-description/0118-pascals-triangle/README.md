@@ -8,8 +8,6 @@ Given an integer <code>numRows</code>, return the first numRows of __Pascal's tr
 
 In __Pascal's triangle__, each number is the sum of the two numbers directly above it as shown:
 
-![image](https://github.com/LucasGPrudente/leetcode-problems/assets/165199182/8701f31a-8510-413a-baf7-1ed2008d584a)
-
 <br>
 
 #### Example 1:
