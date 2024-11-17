@@ -1,6 +1,8 @@
-## 413. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+## [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
 
 <code>Medium</code> <code>Array</code> <code>Dynamic Programming</code> <code>Sliding Window</code>
+
+<br>
 
 An integer array is called arithmetic if it consists of __at least three elements__ and if the difference between any two consecutive elements is the same.
 
@@ -9,6 +11,8 @@ An integer array is called arithmetic if it consists of __at least three element
 Given an integer array <code>nums</code>, return *the number of arithmetic __subarrays__ of* <code>nums</code>.
 
 A __subarray__ is a contiguous subsequence of the array.
+
+<br>
 
 #### Example 1:
 
@@ -23,6 +27,8 @@ A __subarray__ is a contiguous subsequence of the array.
 > __Input:__ nums = [1]
 >
 > __Output:__ 0
+
+<br>
 
 #### Constraints:
 
