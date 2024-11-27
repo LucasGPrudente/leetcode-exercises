@@ -31,5 +31,5 @@ We define an array is non-decreasing if <code>nums[i] <= nums[i + 1]</code> hold
 #### Constraints:
 
 - <code>n == nums.length</code>
-- <code>1 <= n <= 10<code>4</code></code>
-- <code>-10<code>5</code> <= nums[i] <= 10<code>5</code></code>
+- <code>1 <= n <= 10<sup>4</sup></code>
+- <code>-10<sup>5</sup> <= nums[i] <= 10<sup>5</sup></code>
