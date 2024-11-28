@@ -27,4 +27,4 @@ Since the result may be very large, so you need to return a string instead of an
 #### Constraints:
 
 - <code>1 <= nums.length <= 100</code>
-- <code>0 <= nums[i] <= 10<code>9</code></code>
+- <code>0 <= nums[i] <= 10<sup>9</sup></code>
