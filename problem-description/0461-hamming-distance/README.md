@@ -18,9 +18,9 @@ Given two integers <code>x</code> and <code>y</code>, return *the __Hamming dist
 >
 > __Explanation:__
 >
-> 1   (0 0 0 1)
-> 4   (0 1 0 0)
->        ↑   ↑
+> 1 = (0 __0__ 0 __1__)
+>
+> 4 = (0 __1__ 0 __0__)
 >
 > The above arrows point to positions where the corresponding bits are different.
 
