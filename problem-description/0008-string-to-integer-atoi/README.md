@@ -85,5 +85,5 @@ Return the integer as the final result.
 
 #### Constraints:
 
-- 0 <= s.length <= 200<code>Medium</code>
+- <code>0 <= s.length <= 200</code>
 - <code>s</code> consists of English letters (lower-case and upper-case), digits (<code>0-9</code>), <code>' '</code>, <code>'+'</code>, <code>'-'</code>, and <code>'.'</code>.
