@@ -11,7 +11,7 @@ var divide = function (dividend, divisor) {
     const min = Math.pow(2, 31) * -1;
 
     if (divisor == -1) {
-        return (dividend == min) ? max : dividend * -1;
+        return (dividend == min) ? max : -dividend;
     }
 
     if (divisor == 1) {

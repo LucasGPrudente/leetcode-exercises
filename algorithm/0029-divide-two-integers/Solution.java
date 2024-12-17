@@ -3,7 +3,7 @@ class Solution {
     // Return the quotient after dividing dividend by divisor
     public int divide(int dividend, int divisor) {
         if (divisor == -1) {
-            return (dividend == Integer.MIN_VALUE) ? Integer.MAX_VALUE : dividend * -1;
+            return (dividend == Integer.MIN_VALUE) ? Integer.MAX_VALUE : -dividend;
         }
 
         if (divisor == 1) {
