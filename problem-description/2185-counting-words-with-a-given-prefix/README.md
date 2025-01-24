@@ -18,7 +18,7 @@ A __prefix__ of a string <code>s</code> is any leading contiguous substring of <
 >
 > __Output:__ 2
 >
-> __Explanation:__ The 2 strings that contain "at" as a prefix are: "__at__tention" and "__at__tend".
+> __Explanation:__ The 2 strings that contain "at" as a prefix are: "__at__ tention" and "__at__ tend".
 
 #### Example 2:
 

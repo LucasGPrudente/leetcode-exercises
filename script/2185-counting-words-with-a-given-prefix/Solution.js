@@ -7,14 +7,14 @@
  */
 
 var prefixCount = function (words, pref) {
-  let cnt = 0;
+  let count = 0;
   let len = pref.length;
 
   for (let word of words) {
       if (word.substring(0, len) === pref) {
-          cnt++;
+          count++;
       }
   }
 
-  return cnt;
+  return count;
 };
